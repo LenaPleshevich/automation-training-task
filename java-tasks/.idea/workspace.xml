@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0dbe997-851c-463a-9611-bf7e8b72b220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/creator/CreatorShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/pool/ChannelPier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/pool/Pier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/pool/Port.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/pool/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/show/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/stateship/LoadState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/stateship/LockedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/stateship/NewState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/stateship/ServiceState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/stateship/StateShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/stateship/UnloadState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/thread/port/stateship/WaitState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/model/ClassificationLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/model/ExperimentalTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/model/MilitaryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/experimentalPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/thread/port/creator/CreatorShip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="242">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,10 +136,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1370" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -180,23 +177,6 @@
               <item name="java-tasks" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="epam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-tasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="epam" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-tasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -215,8 +195,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552656356617" />
-    <property name="last_opened_file_path" value="E:/BSU 2014-2019/4 курс/EPAM2017/3_Port_Pleshevich/Port" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552659111033" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aircompany" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -295,15 +275,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552647682696</updated>
-      <workItem from="1552647686492" duration="7915000" />
+      <workItem from="1552647686492" duration="10050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7915000" />
+    <option name="totallyTimeSpent" value="10050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -652,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/thread/port/creator/CreatorShip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="242">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
