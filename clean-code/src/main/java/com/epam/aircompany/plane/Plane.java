@@ -2,7 +2,7 @@ package com.epam.aircompany.plane;
 
 import java.util.Objects;
 
-abstract public class Plane {
+public abstract class Plane {
     private String model;
     private int maxSpeed;
     private int maxFlightDistance;
@@ -58,22 +58,25 @@ abstract public class Plane {
                 '}';
     }
 
-
-
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof Plane)) return false;
+        if (o == null || getClass() != o.getClass()) return false;
+
         Plane plane = (Plane) o;
-        return maxSpeed == plane.maxSpeed &&
-                maxFlightDistance == plane.maxFlightDistance &&
-                maxLoadCapacity == plane.maxLoadCapacity &&
-                Objects.equals(model, plane.model);
+
+        if (maxSpeed != plane.maxSpeed) return false;
+        if (maxFlightDistance != plane.maxFlightDistance) return false;
+        if (maxLoadCapacity != plane.maxLoadCapacity) return false;
+        return model.equals(plane.model);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(model, maxSpeed, maxFlightDistance, maxLoadCapacity);
+        int result = model.hashCode();
+        result = 31 * result + maxSpeed;
+        result = 31 * result + maxFlightDistance;
+        result = 31 * result + maxLoadCapacity;
+        return result;
     }
 }

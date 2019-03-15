@@ -3,11 +3,11 @@ package com.epam.aircompany.plane;
 import com.epam.aircompany.model.ClassificationLevel;
 import com.epam.aircompany.model.ExperimentalTypes;
 
-public class experimentalPlane extends Plane{
+public class ExperimentalPlane extends Plane{
     private ExperimentalTypes type;
     private ClassificationLevel classificationLevel;
 
-    public experimentalPlane(String model, int maxSpeed, int maxFlightDistance
+    public ExperimentalPlane(String model, int maxSpeed, int maxFlightDistance
             , int maxLoadCapacity, ExperimentalTypes type, ClassificationLevel classificationLevel) {
         super(model, maxSpeed, maxFlightDistance, maxLoadCapacity);
         this.type = type;
@@ -32,18 +32,26 @@ public class experimentalPlane extends Plane{
 
     @Override
     public boolean equals(Object o) {
-        return super.equals(o);
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        if (!super.equals(o)) return false;
+
+        ExperimentalPlane that = (ExperimentalPlane) o;
+
+        if (type != that.type) return false;
+        return classificationLevel == that.classificationLevel;
     }
 
     @Override
     public int hashCode() {
-        return super.hashCode();
+        int result = super.hashCode();
+        result = 31 * result + type.hashCode();
+        result = 31 * result + classificationLevel.hashCode();
+        return result;
     }
 
     @Override
     public String toString() {
-        return "experimentalPlane{" +
-                "model='" + super.getModel() + '\'' +
-                '}';
+        return "ExperimentalPlane{} " + super.toString();
     }
 }

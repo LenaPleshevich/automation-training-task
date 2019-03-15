@@ -1,10 +1,10 @@
 package com.epam.aircompany;
 
 import com.epam.aircompany.model.MilitaryType;
+import com.epam.aircompany.plane.ExperimentalPlane;
 import com.epam.aircompany.plane.MilitaryPlane;
 import com.epam.aircompany.plane.PassengerPlane;
 import com.epam.aircompany.plane.Plane;
-import com.epam.aircompany.plane.experimentalPlane;
 
 import java.util.*;
 
@@ -75,14 +75,14 @@ public class Airport {
 
     }
 
-    public List<experimentalPlane> getExperimentalPlanes() {
-        List<experimentalPlane> experimentalPlanes = new ArrayList<>();
+    public List<ExperimentalPlane> getExperimentalPlanes() {
+        List<ExperimentalPlane> ExperimentalPlanes = new ArrayList<>();
         for (Plane plane : planes) {
-            if (plane instanceof experimentalPlane) {
-                experimentalPlanes.add((experimentalPlane) plane);
+            if (plane instanceof ExperimentalPlane) {
+                ExperimentalPlanes.add((ExperimentalPlane) plane);
             }
         }
-        return experimentalPlanes;
+        return ExperimentalPlanes;
     }
 
     public Airport sortByMaxDistance() {

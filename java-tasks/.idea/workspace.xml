@@ -2,19 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0dbe997-851c-463a-9611-bf7e8b72b220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../clean-code/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/model/ClassificationLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/model/ExperimentalTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/model/MilitaryType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/experimentalPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/error/action/ActionPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/error/action/ActionSphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/error/entity/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/error/entity/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/error/exception/FileWorkerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/error/fileworker/FileWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/error/ActionPointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/error/ActionSphereTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/error/FileWorkerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/experimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/candy/ActionGiftTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/classes/sweet/ActionGiftTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,25 +41,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="64" />
+          <entry key="java" value="76" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="64" />
+          <entry key="JAVA" value="76" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="584" />
+          <entry key="java" value="675" />
           <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="584" />
+          <entry key="JAVA" value="675" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
@@ -60,14 +67,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/thread/port/creator/CreatorShip.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/error/entity/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="255">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/error/ActionPointTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/error/ActionSphereTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -114,6 +139,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/epam/thread/port/pool/Pier.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/thread/port/pool/ChannelPier.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/thread/port/creator/CreatorShip.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/classes/sweet/ActionGiftTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/error/fileworker/FileWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/error/action/ActionPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/error/action/ActionSphere.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/error/ActionPointTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/error/ActionSphereTest.java" />
       </list>
     </option>
   </component>
@@ -136,9 +167,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,6 +209,14 @@
               <item name="java-tasks" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -185,6 +225,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="error" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,8 +252,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552659111033" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aircompany" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552662475947" />
+    <property name="last_opened_file_path" value="E:/BSU 2014-2019/4 курс/EPAM2017/EpamTask/1_Sphere.Pleshevich" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -205,11 +262,16 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.epam.classes" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="candy" />
       <recent name="com.epam.fundamentals" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\data\temp\automation-training-task\java-tasks\src\test\java\com\epam\error" />
+      <recent name="C:\data\temp\automation-training-task\java-tasks\src\main\java\com\epam\error" />
       <recent name="C:\data\temp\automation-training-task\java-tasks\src\main\java\com\epam\thread\port" />
       <recent name="C:\data\temp\automation-training-task\java-tasks\src\main\java\com\epam\classes\candy" />
       <recent name="C:\data\temp\automation-training-task\java-tasks\src\main\java\com\epam\classes\book" />
@@ -275,12 +337,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552647682696</updated>
-      <workItem from="1552647686492" duration="10050000" />
+      <workItem from="1552647686492" duration="13050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10050000" />
+    <option name="totallyTimeSpent" value="13050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -416,16 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/candy/ActionGiftTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,13 +683,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/thread/port/creator/CreatorShip.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/classes/sweet/ActionGiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="64">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/error/action/ActionSphere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/error/action/ActionPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/error/entity/Sphere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/error/exception/FileWorkerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/error/fileworker/FileWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/thread/port/creator/CreatorShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/error/entity/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/error/ActionPointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/error/ActionSphereTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
         </state>
       </provider>
     </entry>

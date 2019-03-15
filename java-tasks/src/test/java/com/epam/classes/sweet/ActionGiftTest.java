@@ -1,4 +1,4 @@
-package candy;
+package com.epam.classes.sweet;
 
 import com.epam.classes.sweet.action.ActionGiftBox;
 import com.epam.classes.sweet.creator.SweetFactory;
