@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0dbe997-851c-463a-9611-bf7e8b72b220" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/error/ActionSphereTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/error/ActionSphereTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/error/FileWorkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/error/FileWorkerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-driver/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-driver/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-driver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-driver/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -250,7 +241,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552664037940" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552665615286" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../web-driver" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -344,7 +335,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />

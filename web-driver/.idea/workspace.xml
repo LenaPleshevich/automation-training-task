@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb0684c8-f7fa-40d9-a4a1-a623704f8d49" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/ActionSphereTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/ActionSphereTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/FileWorkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/FileWorkerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -272,7 +262,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.21386719" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -435,7 +425,7 @@
       <workItem from="1552501579416" duration="1209000" />
       <workItem from="1552560618866" duration="14634000" />
       <workItem from="1552584316862" duration="13546000" />
-      <workItem from="1552663204426" duration="598000" />
+      <workItem from="1552663204426" duration="1174000" />
     </task>
     <servers />
   </component>
@@ -472,7 +462,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29987000" />
+    <option name="totallyTimeSpent" value="30563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -485,7 +475,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24583964" />
       <window_info id="Structure" order="1" weight="0.25" />
