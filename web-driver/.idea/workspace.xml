@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0684c8-f7fa-40d9-a4a1-a623704f8d49" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task/com/epam/google/CalculatorPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task/com/epam/google/CalculatorPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task/com/epam/pastebin/BringItOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task/com/epam/pastebin/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task/com/epam/pastebin/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task/com/epam/pastebin/ICanWin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task/com/epam/pastebin/NewPastePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task/com/epam/test/google/CalculatorPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task/com/epam/test/google/CalculatorPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task/com/epam/test/pastebin/PastebinPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task/com/epam/test/pastebin/PastebinPageTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,10 +76,57 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="17" />
+          <entry key="java" value="1215" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1215" />
+          <entry key="PLAIN_TEXT" value="17" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="70" column="101" selection-start-line="70" selection-start-column="101" selection-end-line="70" selection-end-column="101" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,14 +152,17 @@
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/cloud/google/com/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/NewPastePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/test/pastebin/PastebinPageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/PastePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/PricingPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/ProductPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/test/tenminutemail/CalculatorPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/tenMinuteMail/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/tenMinuteMail/TenMinuteMailPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java" />
       </list>
     </option>
   </component>
@@ -212,39 +271,61 @@
           <expand>
             <path>
               <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="web-driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="web-driver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="web-driver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="web-driver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="web-driver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="epam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,12 +338,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552602241517" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552684571515" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.21386719" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="task.com.epam.test.tenminutemail" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -276,37 +362,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.PastebinPageTest.parameterPasteForSecondTaskTest">
+  <component name="RunManager" selected="TestNG.CalculatorPageTest.checkTotalEstimatedMonthlyCostTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BringItOn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task.com.epam.pastebin.BringItOn" />
-      <module name="WebDriverTask" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task.com.epam.pastebin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ICanWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task.com.epam.pastebin.ICanWin" />
-      <module name="WebDriverTask" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task.com.epam.pastebin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -323,16 +381,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorPageTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WebDriverTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task.com.epam.test.cloud.google.com.*" />
+          <option name="PATTERN" value="task.com.epam.test.google.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="task.com.epam.test.cloud.google.com" />
-      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.cloud.google.com.CalculatorPageTest" />
+      <option name="PACKAGE_NAME" value="task.com.epam.test.google" />
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.google.CalculatorPageTest" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -340,16 +398,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PastebinPageTest.parameterCalculatorTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WebDriverTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task.com.epam.test.pastebin.*" />
+          <option name="PATTERN" value="task.com.epam.test.google.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="task.com.epam.test.pastebin" />
-      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.pastebin.PastebinPageTest" />
+      <option name="PACKAGE_NAME" value="task.com.epam.test.google" />
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.google.CalculatorPageTest" />
+      <option name="METHOD_NAME" value="checkTotalEstimatedMonthlyCostTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorPageTest.getTotalCost" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.com.epam.test.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task.com.epam.test.google" />
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.google.CalculatorPageTest" />
+      <option name="METHOD_NAME" value="getTotalCost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorPageTest.parameterCalculatorTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.com.epam.test.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task.com.epam.test.google" />
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.google.CalculatorPageTest" />
       <option name="METHOD_NAME" value="parameterCalculatorTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -396,19 +492,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.CalculatorPageTest" />
-      <item itemvalue="Application.BringItOn" />
-      <item itemvalue="TestNG.PastebinPageTest.parameterCalculatorTest" />
-      <item itemvalue="Application.ICanWin" />
       <item itemvalue="TestNG.PastebinPageTest.parameterPasteForSecondTaskTest" />
+      <item itemvalue="TestNG.CalculatorPageTest (1)" />
+      <item itemvalue="TestNG.CalculatorPageTest.parameterCalculatorTest" />
+      <item itemvalue="TestNG.CalculatorPageTest.getTotalCost" />
+      <item itemvalue="TestNG.CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" />
+        <item itemvalue="TestNG.CalculatorPageTest.getTotalCost" />
+        <item itemvalue="TestNG.CalculatorPageTest.parameterCalculatorTest" />
+        <item itemvalue="TestNG.CalculatorPageTest (1)" />
         <item itemvalue="TestNG.PastebinPageTest.parameterPasteForSecondTaskTest" />
-        <item itemvalue="Application.ICanWin" />
-        <item itemvalue="TestNG.PastebinPageTest.parameterCalculatorTest" />
-        <item itemvalue="Application.BringItOn" />
-        <item itemvalue="TestNG.CalculatorPageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -425,44 +521,44 @@
       <workItem from="1552501579416" duration="1209000" />
       <workItem from="1552560618866" duration="14634000" />
       <workItem from="1552584316862" duration="13546000" />
-      <workItem from="1552663204426" duration="1174000" />
+      <workItem from="1552663204426" duration="17015000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 10m 57s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.15 at 23h 20m 38s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 12m 27s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.15 at 23h 30m 06s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 14m 07s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.15 at 23h 33m 08s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 16m 09s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.15 at 23h 36m 40s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 18m 33s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.15 at 23h 40m 23s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 19m 48s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.16 at 00h 00m 32s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 21m 28s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.16 at 00h 04m 55s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 23m 44s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.16 at 00h 08m 14s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 27m 40s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.16 at 00h 12m 41s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 31m 35s.xml">
-      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    <history-entry file="CalculatorPageTest_checkTotalEstimatedMonthlyCostTest - 2019.03.16 at 00h 15m 55s.xml">
+      <configuration name="CalculatorPageTest.checkTotalEstimatedMonthlyCostTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30563000" />
+    <option name="totallyTimeSpent" value="46404000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,8 +571,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24583964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24583964" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -486,7 +583,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36557376" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36557376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -523,17 +620,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/ICanWin.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BringItOn.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/pastebin/PastebinPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -555,6 +648,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createNewPostButton#0;class#HomePage#0" />
+            <element signature="method#selectPasteExpiration#0;class#HomePage#0" />
+            <element signature="method#selectSyntaxHighlighting#0;class#HomePage#0" />
+            <element signature="method#enterText#0;class#HomePage#0" />
+            <element signature="method#enterPasteName#0;class#HomePage#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -562,20 +663,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#BasePage#0;class#BasePage#0" />
+            <element signature="method#initWait#0;class#BasePage#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -583,6 +675,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#goToPageCalculators#0;class#PricingPage#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -590,6 +686,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/tenminutemail/CalculatorPageTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/tenMinuteMail/TenMinuteEmail.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/tenMinuteMail/TenMinuteMailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="method#goToPageProducts#0;class#HomePage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/tenMinuteMail/TenMinuteMailPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#openEmail#0;class#HomePage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="101" selection-start-line="70" selection-start-column="101" selection-end-line="70" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

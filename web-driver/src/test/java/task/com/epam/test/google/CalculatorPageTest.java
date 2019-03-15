@@ -2,12 +2,13 @@ package task.com.epam.test.google;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import task.com.epam.google.CalculatorPage;
 import task.com.epam.google.HomePage;
+import task.com.epam.tenMinuteMail.TenMinuteMailPage;
 
 public class CalculatorPageTest {
     private static final String OS = "Free: Debian, CentOS, CoreOS, Ubuntu, or other User Provided OS";
@@ -23,6 +24,8 @@ public class CalculatorPageTest {
     private static final String EXPECTED_COST = "1,187.77";
     private static WebDriver driver;
     private static HomePage homePage;
+    private static TenMinuteMailPage tenMinuteMailPageTenMinute;
+
     private static CalculatorPage calculatorPage;
 
     @BeforeClass
@@ -31,15 +34,15 @@ public class CalculatorPageTest {
         driver.get("https://cloud.google.com/ ");
         driver.manage().window().maximize();
         homePage = new HomePage(driver);
+        tenMinuteMailPageTenMinute = new TenMinuteMailPage(driver);
     }
 
-    @BeforeMethod
     public static void goToPageCalculators() {
         calculatorPage = homePage.goToPageProducts().goToPagePrising().goToPageCalculators();
     }
 
-    @Test
-    public void parameterCalculatorTest() {
+    public void createEstimate(){
+        goToPageCalculators();
         calculatorPage.switchToFrame();
         calculatorPage.selectPlatform(PLATFORM)
                 .selectInstancesNumber(INSTANCES_NUMBER)
@@ -51,7 +54,35 @@ public class CalculatorPageTest {
                 .selectDataCenterLocation(DATA_CENTER_LOCATION)
                 .selectCommitedUsage(COMMITED_USAGE);
         calculatorPage.addToExecute();
+    }
+
+    @Test
+    public void parameterCalculatorTest() {
+        createEstimate();
         checkEnteredParameters();
+    }
+
+    @Test
+    public void checkTotalEstimatedMonthlyCostTest(){
+        createEstimate();
+        String expectedCost = calculatorPage.getCost().getText();
+        calculatorPage.emailEstimate();
+        getTotalCost();
+        Assert.assertTrue(getTotalCost().contains(expectedCost),"Expected total cost on page does not match total cost from email");
+    }
+
+    private String getTotalCost(){
+        String urlGooglePage = driver.getCurrentUrl();
+        driver.get("https://10minutemail.com");
+        String email = tenMinuteMailPageTenMinute.getGenerateMail();
+        String urlTenMinuteMailPage = driver.getCurrentUrl();
+        tenMinuteMailPageTenMinute = new TenMinuteMailPage(driver);
+        driver.navigate().to(urlGooglePage);
+        calculatorPage.switchToFrame();
+        calculatorPage.emailEstimate();
+        calculatorPage.inputEmail(email).sendEmail();
+        driver.navigate().to(urlTenMinuteMailPage);
+        return tenMinuteMailPageTenMinute.openEmail().getTotalCost().getText();
     }
 
     private void checkEnteredParameters() {
