@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb0684c8-f7fa-40d9-a4a1-a623704f8d49" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/PricingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/PastePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/test/pastebin/PastebinPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/pagr1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebDriverTask.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HelloWebDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task/BringItOn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task/HurtMePlenty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task/ICanWin.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-932339205">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2961" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2961" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="49" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/task/epam/com/Pleshevich/util_step/vv.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/epam/com/Pleshevich/test/cloud/google/com/CalculatorPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/epam/com/Pleshevich/cloud/google/com/CalculatorPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/cloud/google/com/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/cloud/google/com/PricingPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/cloud/google/com/CalculatorPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/test/cloud/google/com/CalculatorPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/cloud/google/com/ProductPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/cloud/google/com/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/NewPastePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/test/pastebin/PastebinPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/PastePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/PricingPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task/com/epam/google/ProductPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebDriverTask" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="892" />
+    <option name="width" value="481" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wed-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552602241517" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wed-driver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.21386719" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.PastebinPageTest.parameterPasteForSecondTaskTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BringItOn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.pastebin.BringItOn" />
+      <module name="WebDriverTask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.com.epam.pastebin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ICanWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.pastebin.ICanWin" />
+      <module name="WebDriverTask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.com.epam.pastebin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.com.epam.test.cloud.google.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task.com.epam.test.cloud.google.com" />
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.cloud.google.com.CalculatorPageTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PastebinPageTest.parameterCalculatorTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.com.epam.test.pastebin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task.com.epam.test.pastebin" />
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.pastebin.PastebinPageTest" />
+      <option name="METHOD_NAME" value="parameterCalculatorTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriverTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.com.epam.test.pastebin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task.com.epam.test.pastebin" />
+      <option name="MAIN_CLASS_NAME" value="task.com.epam.test.pastebin.PastebinPageTest" />
+      <option name="METHOD_NAME" value="parameterPasteForSecondTaskTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CalculatorPageTest" />
+      <item itemvalue="Application.BringItOn" />
+      <item itemvalue="TestNG.PastebinPageTest.parameterCalculatorTest" />
+      <item itemvalue="Application.ICanWin" />
+      <item itemvalue="TestNG.PastebinPageTest.parameterPasteForSecondTaskTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PastebinPageTest.parameterPasteForSecondTaskTest" />
+        <item itemvalue="Application.ICanWin" />
+        <item itemvalue="TestNG.PastebinPageTest.parameterCalculatorTest" />
+        <item itemvalue="Application.BringItOn" />
+        <item itemvalue="TestNG.CalculatorPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb0684c8-f7fa-40d9-a4a1-a623704f8d49" name="Default" comment="" />
+      <created>1552501578097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552501578097</updated>
+      <workItem from="1552501579416" duration="1209000" />
+      <workItem from="1552560618866" duration="14634000" />
+      <workItem from="1552584316862" duration="13546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 10m 57s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 12m 27s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 14m 07s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 16m 09s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 18m 33s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 19m 48s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 21m 28s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 23m 44s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 27m 40s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PastebinPageTest_parameterPasteForSecondTaskTest - 2019.03.14 at 23h 31m 35s.xml">
+      <configuration name="PastebinPageTest.parameterPasteForSecondTaskTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29389000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24205749" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36557376" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/epam/com/Pleshevich/util_step/vv.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/cloud/google/com/HurtMePlenty.java" />
+    <entry file="file://$PROJECT_DIR$/WebDriverTask.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/ICanWin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BringItOn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/pastebin/PastebinPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/PastePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createNewPostButton#0;class#HomePage#0" />
+            <element signature="method#selectPasteExpiration#0;class#HomePage#0" />
+            <element signature="method#selectSyntaxHighlighting#0;class#HomePage#0" />
+            <element signature="method#enterText#0;class#HomePage#0" />
+            <element signature="method#enterPasteName#0;class#HomePage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#BasePage#0;class#BasePage#0" />
+            <element signature="method#initWait#0;class#BasePage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#goToPageProducts#0;class#HomePage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2729#2864#0" />
+            <element signature="e#2869#3029#0" />
+            <element signature="e#3035#3164#0" />
+            <element signature="e#3170#3345#0" />
+            <element signature="e#3351#3536#0" />
+            <element signature="e#3542#3709#0" />
+            <element signature="e#3715#3875#0" />
+            <element signature="e#3881#4072#0" />
+            <element signature="e#4078#4243#0" />
+            <element signature="e#4249#4464#0" />
+            <element signature="e#4470#4660#0" />
+            <element signature="e#4666#4912#0" />
+            <element signature="e#4918#5083#0" />
+            <element signature="e#5089#5186#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/PricingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#goToPageCalculators#0;class#PricingPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/google/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#goToPagePrising#0;class#ProductPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WebDriverTask</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
