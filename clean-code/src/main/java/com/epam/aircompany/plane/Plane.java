@@ -1,7 +1,5 @@
 package com.epam.aircompany.plane;
 
-import java.util.Objects;
-
 public abstract class Plane {
     private String model;
     private int maxSpeed;
@@ -62,9 +60,7 @@ public abstract class Plane {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-
         Plane plane = (Plane) o;
-
         if (maxSpeed != plane.maxSpeed) return false;
         if (maxFlightDistance != plane.maxFlightDistance) return false;
         if (maxLoadCapacity != plane.maxLoadCapacity) return false;

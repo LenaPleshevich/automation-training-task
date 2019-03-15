@@ -2,26 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1619745c-b66d-453c-b235-52ecf36dd520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/main/java/com/epam/error/action/ActionPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/main/java/com/epam/error/action/ActionSphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/main/java/com/epam/error/entity/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/main/java/com/epam/error/entity/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/main/java/com/epam/error/exception/FileWorkerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/main/java/com/epam/error/fileworker/FileWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/ActionPointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/ActionSphereTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/FileWorkerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/Airport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/experimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com.epam.aircompany/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com.epam.aircompany/AirportTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/src/test/java/candy/ActionGiftTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/classes/sweet/ActionGiftTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/ActionSphereTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/ActionSphereTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/FileWorkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/FileWorkerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-driver/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-driver/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-driver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-driver/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,26 +35,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="25" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="25" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="27" />
+          <entry key="java" value="289" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="289" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="5" />
         </counts>
@@ -72,105 +64,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.epam.aircompany/AirportTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="551">
+              <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/PassengerPlane.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/Plane.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1651#1652#0" expanded="true" />
-                <element signature="e#1715#1716#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/model/MilitaryType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/Airport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2006">
-              <caret line="130" selection-start-line="130" selection-end-line="130" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/Runner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.epam.aircompany/AirportTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/model/ExperimentalTypes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="102">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -186,13 +95,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/model/ClassificationLevel.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/experimentalPlane.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/Airport.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/Runner.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.epam.aircompany/AirportTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/Plane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aircompany/Airport.java" />
       </list>
     </option>
   </component>
@@ -215,10 +124,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="892" />
+    <option name="width" value="481" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -300,7 +208,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552662476222" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552664038020" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -310,14 +218,14 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\data\temp\automation-training-task\clean-code\src\test\java" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\data\temp\automation-training-task\clean-code\src\main\java\com\epam\aircompany" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.epam.aircompany" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\data\temp\automation-training-task\clean-code\src\main\java\com\epam\aircompany" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\data\temp\automation-training-task\clean-code\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -343,12 +251,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552658653515</updated>
       <workItem from="1552658660216" duration="572000" />
-      <workItem from="1552661869508" duration="507000" />
+      <workItem from="1552661869508" duration="2680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1079000" />
+    <option name="totallyTimeSpent" value="3252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -391,13 +299,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/model/ClassificationLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/model/MilitaryType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -405,34 +306,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/Airport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2006">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.epam.aircompany/AirportTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/model/ExperimentalTypes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/model/ClassificationLevel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
@@ -446,39 +320,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/PassengerPlane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="511">
+          <caret line="37" column="68" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1651#1652#0" expanded="true" />
-            <element signature="e#1715#1716#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="425">
+          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/model/ExperimentalTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/Plane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="61" column="66" selection-start-line="61" selection-start-column="66" selection-end-line="61" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.epam.aircompany/AirportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/PassengerPlane.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="361">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/plane/Plane.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aircompany/Airport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>

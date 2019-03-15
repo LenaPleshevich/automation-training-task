@@ -1,7 +1,5 @@
 package com.epam.aircompany.plane;
 
-import java.util.Objects;
-
 public class PassengerPlane extends Plane {
     private int passengersCapacity;
 
@@ -30,10 +28,8 @@ public class PassengerPlane extends Plane {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
-
-        PassengerPlane that = (PassengerPlane) o;
-
-        return passengersCapacity == that.passengersCapacity;
+        PassengerPlane passengerPlane = (PassengerPlane) o;
+        return passengersCapacity == passengerPlane.passengersCapacity;
     }
 
     @Override

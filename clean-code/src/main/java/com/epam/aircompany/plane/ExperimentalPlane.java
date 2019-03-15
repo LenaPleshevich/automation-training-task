@@ -3,7 +3,7 @@ package com.epam.aircompany.plane;
 import com.epam.aircompany.model.ClassificationLevel;
 import com.epam.aircompany.model.ExperimentalTypes;
 
-public class ExperimentalPlane extends Plane{
+public class ExperimentalPlane extends Plane {
     private ExperimentalTypes type;
     private ClassificationLevel classificationLevel;
 
@@ -26,7 +26,7 @@ public class ExperimentalPlane extends Plane{
         return classificationLevel;
     }
 
-    public void setClassificationLevel(ClassificationLevel classificationLevel){
+    public void setClassificationLevel(ClassificationLevel classificationLevel) {
         this.classificationLevel = classificationLevel;
     }
 
@@ -35,11 +35,9 @@ public class ExperimentalPlane extends Plane{
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
-
-        ExperimentalPlane that = (ExperimentalPlane) o;
-
-        if (type != that.type) return false;
-        return classificationLevel == that.classificationLevel;
+        ExperimentalPlane experimentalPlane = (ExperimentalPlane) o;
+        if (type != experimentalPlane.type) return false;
+        return classificationLevel == experimentalPlane.classificationLevel;
     }
 
     @Override

@@ -34,17 +34,17 @@ public class AirportTest {
     private static PassengerPlane planeWithMaxPassengerCapacity = new PassengerPlane("Boeing-747", 980, 16100, 70500, 242);
 
     @Test
-    public void testGetTransportMilitaryPlanes() {
+    public void checkTransportMilitaryPlanesTest() {
         Airport airport = new Airport(planes);
         List<MilitaryPlane> transportMilitaryPlanes = airport.getTransportMilitaryPlanes();
-        boolean flag = false;
+        boolean isTypeTransport = false;
         for (MilitaryPlane militaryPlane : transportMilitaryPlanes) {
             if ((militaryPlane.getType() == MilitaryType.TRANSPORT)) {
-                flag = true;
+                isTypeTransport = true;
                 break;
             }
         }
-        Assert.assertEquals(flag, true);
+        Assert.assertEquals(isTypeTransport, true,"Expected type plane not transport");
     }
 
     @Test
@@ -76,14 +76,12 @@ public class AirportTest {
     public void checkAtLeastOneBomberInMilitaryPlanesTest() {
         Airport airport = new Airport(planes);
         List<MilitaryPlane> bomberMilitaryPlanes = airport.getBomberMilitaryPlanes();
-        boolean flag = false;
+        boolean isTypeBomber = false;
         for (MilitaryPlane militaryPlane : bomberMilitaryPlanes) {
             if ((militaryPlane.getType() == MilitaryType.BOMBER)) {
-                flag = true;
+                isTypeBomber = true;
             }
-            else {
-                Assert.fail("Test failed!");
-            }
+            Assert.assertFalse(isTypeBomber,"Expected type military plane not bomber");
         }
     }
 
@@ -98,6 +96,6 @@ public class AirportTest {
                 break;
             }
         }
-        Assert.assertFalse(hasUnclassifiedPlanes);
+        Assert.assertFalse(hasUnclassifiedPlanes,"Experimental Planes has unclassified level ");
     }
 }

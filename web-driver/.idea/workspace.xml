@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0684c8-f7fa-40d9-a4a1-a623704f8d49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/CalculatorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/PricingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/google/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/PastePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/task/com/epam/test/pastebin/PastebinPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/pagr1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebDriverTask.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HelloWebDriver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/task/BringItOn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/task/HurtMePlenty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/task/ICanWin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Airport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/ExperimentalPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/MilitaryPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/PassengerPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/main/java/com/epam/aircompany/plane/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clean-code/src/test/java/com.epam.aircompany/AirportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/ActionSphereTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/ActionSphereTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/FileWorkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/src/test/java/com/epam/error/FileWorkerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,9 +70,17 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1320655781">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,7 +90,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -213,8 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,13 +260,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552602241517" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wed-driver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.21386719" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -431,6 +435,7 @@
       <workItem from="1552501579416" duration="1209000" />
       <workItem from="1552560618866" duration="14634000" />
       <workItem from="1552584316862" duration="13546000" />
+      <workItem from="1552663204426" duration="598000" />
     </task>
     <servers />
   </component>
@@ -467,7 +472,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29389000" />
+    <option name="totallyTimeSpent" value="29987000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,8 +485,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24205749" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24583964" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -526,20 +532,8 @@
         <state relative-caret-position="-163" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/ICanWin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BringItOn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/ICanWin.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/pastebin/BringItOn.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/task/com/epam/test/google/CalculatorPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
@@ -551,9 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -561,9 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="11" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,9 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -581,14 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#createNewPostButton#0;class#HomePage#0" />
-            <element signature="method#selectPasteExpiration#0;class#HomePage#0" />
-            <element signature="method#selectSyntaxHighlighting#0;class#HomePage#0" />
-            <element signature="method#enterText#0;class#HomePage#0" />
-            <element signature="method#enterPasteName#0;class#HomePage#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,11 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#BasePage#0;class#BasePage#0" />
-            <element signature="method#initWait#0;class#BasePage#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,10 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#goToPageProducts#0;class#HomePage#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,23 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1666">
           <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2729#2864#0" />
-            <element signature="e#2869#3029#0" />
-            <element signature="e#3035#3164#0" />
-            <element signature="e#3170#3345#0" />
-            <element signature="e#3351#3536#0" />
-            <element signature="e#3542#3709#0" />
-            <element signature="e#3715#3875#0" />
-            <element signature="e#3881#4072#0" />
-            <element signature="e#4078#4243#0" />
-            <element signature="e#4249#4464#0" />
-            <element signature="e#4470#4660#0" />
-            <element signature="e#4666#4912#0" />
-            <element signature="e#4918#5083#0" />
-            <element signature="e#5089#5186#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,10 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#goToPageCalculators#0;class#PricingPage#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -654,10 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#goToPagePrising#0;class#ProductPage#0" />
-          </folding>
         </state>
       </provider>
     </entry>

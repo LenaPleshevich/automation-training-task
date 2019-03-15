@@ -1,8 +1,5 @@
 package com.epam.error;
 
-import by.pleshevich.action.ActionSphere;
-import by.pleshevich.entity.Point;
-import by.pleshevich.entity.Sphere;
 import com.epam.error.action.ActionSphere;
 import com.epam.error.entity.Point;
 import com.epam.error.entity.Sphere;

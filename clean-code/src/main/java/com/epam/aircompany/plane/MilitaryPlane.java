@@ -1,9 +1,6 @@
 package com.epam.aircompany.plane;
 
-
 import com.epam.aircompany.model.MilitaryType;
-import java.util.Objects;
-
 
 public class MilitaryPlane extends Plane {
     private MilitaryType type;
@@ -33,10 +30,8 @@ public class MilitaryPlane extends Plane {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
-
-        MilitaryPlane that = (MilitaryPlane) o;
-
-        return type == that.type;
+        MilitaryPlane militaryPlane = (MilitaryPlane) o;
+        return type == militaryPlane.type;
     }
 
     @Override

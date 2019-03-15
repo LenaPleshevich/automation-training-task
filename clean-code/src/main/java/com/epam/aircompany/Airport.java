@@ -5,7 +5,6 @@ import com.epam.aircompany.plane.ExperimentalPlane;
 import com.epam.aircompany.plane.MilitaryPlane;
 import com.epam.aircompany.plane.PassengerPlane;
 import com.epam.aircompany.plane.Plane;
-
 import java.util.*;
 
 public class Airport {
@@ -118,6 +117,19 @@ public class Airport {
             Plane plane = iterator.next();
             System.out.println(plane);
         }
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Airport airport = (Airport) o;
+        return planes.equals(airport.planes);
+    }
+
+    @Override
+    public int hashCode() {
+        return planes.hashCode();
     }
 
     @Override

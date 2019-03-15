@@ -1,9 +1,9 @@
 package com.epam.error;
 
-import by.pleshevich.entity.Point;
-import by.pleshevich.entity.Sphere;
-import by.pleshevich.exception.FileWorkerException;
-import by.pleshevich.fileworker.FileWorker;
+import com.epam.error.entity.Point;
+import com.epam.error.entity.Sphere;
+import com.epam.error.exception.FileWorkerException;
+import com.epam.error.fileworker.FileWorker;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
