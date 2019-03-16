@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0684c8-f7fa-40d9-a4a1-a623704f8d49" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-tasks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/target/classes/com/epam/classes/book/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/target/classes/com/epam/classes/book/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/target/classes/com/epam/classes/book/TypeBookBinding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/target/classes/com/epam/fundamentals/ArrayTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/target/classes/com/epam/fundamentals/DataTypeTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/target/classes/com/epam/fundamentals/FirstApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/target/classes/com/epam/fundamentals/OperatorTask$Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-tasks/target/classes/com/epam/fundamentals/OperatorTask.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -258,7 +249,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="892" />
     <option name="width" value="481" />
     <option name="height" value="735" />
@@ -368,7 +359,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552702744341" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552703402512" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-tasks" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.21386719" />
@@ -551,7 +542,7 @@
       <workItem from="1552501579416" duration="1209000" />
       <workItem from="1552560618866" duration="14634000" />
       <workItem from="1552584316862" duration="13546000" />
-      <workItem from="1552663204426" duration="33064000" />
+      <workItem from="1552663204426" duration="33316000" />
     </task>
     <servers />
   </component>
@@ -588,7 +579,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62453000" />
+    <option name="totallyTimeSpent" value="62705000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -600,7 +591,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24583964" />
       <window_info id="Structure" order="1" weight="0.25" />
