@@ -5,10 +5,12 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import task.com.epam.BasePage;
+
 import java.util.List;
 
-public class CalculatorPage extends BasePage{
-    private static final int SIZE_WAIT = 15;
+public class CalculatorPage extends BasePage {
+    private static final int SIZE_WAIT = 20;
     @FindBy(xpath = "//div[@class='name ng-binding']")
     private List<WebElement> platformList;
     @FindBy(id = "input_46")
@@ -53,7 +55,7 @@ public class CalculatorPage extends BasePage{
     private WebElement addToExecuteButton;
     @FindBy(xpath = "//*[@class='md-list-item-text ng-binding']")
     private List<WebElement> estimatesParameters;
-    @FindBy(xpath = "//b[@class='ng-binding']")
+    @FindBy(xpath = "//h2//b[@class='ng-binding']")
     private WebElement estimatedCost;
     @FindBy(xpath = "//*[@id='email_quote']")
     private WebElement emailEstimateButton;
@@ -73,14 +75,14 @@ public class CalculatorPage extends BasePage{
     }
 
     public CalculatorPage selectVMClass(String VMClass) {
-        super.initWait(VMClassDropDown);
+        initWait(VMClassDropDown);
         VMClassDropDown.click();
         selectParameter(VMClassList, VMClass);
         return this;
     }
 
     public CalculatorPage selectInstancesNumber(String number) {
-        super.initWait(instancesNumber);
+        initWait(instancesNumber);
         instancesNumber.sendKeys(number);
         return this;
     }
@@ -92,7 +94,7 @@ public class CalculatorPage extends BasePage{
     }
 
     public CalculatorPage selectInstanceType(String instanceType) {
-        super.initWait(instanceTypeDropDown);
+        initWait(instanceTypeDropDown);
         instanceTypeDropDown.click();
         selectParameter(instanceTypeList, instanceType);
         return this;
@@ -125,7 +127,7 @@ public class CalculatorPage extends BasePage{
     }
 
     public CalculatorPage sendEmail(){
-        super.initWait(sendEmailButton);
+        initWait(sendEmailButton);
         sendEmailButton.click();
         return this;
     }
@@ -143,17 +145,13 @@ public class CalculatorPage extends BasePage{
     }
 
     public CalculatorPage inputEmail(String email){
-        super.initWait(emailForm);
+        initWait(emailForm);
         emailForm.sendKeys(email);
         return this;
     }
 
-
-
     private void selectParameter(List<WebElement> parameters, String parameter) {
-        for(WebElement webElement: parameters) {
-            System.out.println(webElement.getText());
-        }
+        initWait(parameters.get(0));
         for(WebElement webElement: parameters) {
             if(webElement.getText().contains(parameter)) {
                 webElement.click();
@@ -173,7 +171,7 @@ public class CalculatorPage extends BasePage{
     }
 
     public WebDriver emailEstimate(){
-        super.initWait(emailEstimateButton);
+        initWait(emailEstimateButton);
         emailEstimateButton.click();
         return driver;
     }

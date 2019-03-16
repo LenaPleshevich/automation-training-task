@@ -3,9 +3,11 @@ package task.com.epam.pastebin;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import task.com.epam.BasePage;
+
 import java.util.List;
 
-public class HomePage extends BasePage{
+public class HomePage extends BasePage {
     @FindBy(id = "paste_code")
     private WebElement inputText;
     @FindBy(xpath = "//*[@title='Never']")
@@ -54,7 +56,7 @@ public class HomePage extends BasePage{
     }
 
     public HomePage enterText(String text) {
-        super.initWait(inputText);
+        initWait(inputText);
         inputText.sendKeys(text);
         return this;
     }

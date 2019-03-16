@@ -3,6 +3,7 @@ package task.com.epam.pastebin;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import task.com.epam.BasePage;
 
 public class PastePage extends BasePage {
     @FindBy(id = "paste_code")
